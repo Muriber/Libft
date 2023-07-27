@@ -1,4 +1,6 @@
-Libft (125 / 100)
+#Libft
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkkvymoc012008mcghegnr25/project/2565713" alt="bjimenez's 42 Libft Score" /></a>
+
 Proyecto consistente en programar tu primera libreria en C, así
 como otras funciones de utilidad propósito general.
 Las funciones que conforman esta librería:
